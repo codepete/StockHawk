@@ -7,7 +7,6 @@ import android.database.Cursor;
 import android.database.DatabaseUtils;
 import android.os.RemoteException;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.google.android.gms.gcm.GcmNetworkManager;
 import com.google.android.gms.gcm.GcmTaskService;
@@ -22,7 +21,6 @@ import com.squareup.okhttp.Response;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
-import java.net.UnknownHostException;
 
 /**
  * Created by sam_chordas on 9/30/15.

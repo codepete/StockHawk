@@ -6,14 +6,11 @@ import android.content.Loader;
 import android.database.Cursor;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.os.PersistableBundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.db.chart.model.LineSet;
 import com.db.chart.model.Point;
 import com.db.chart.view.LineChartView;
-import com.db.chart.view.animation.Animation;
-import com.db.chart.view.animation.easing.BounceEase;
 import com.sam_chordas.android.stockhawk.R;
 import com.sam_chordas.android.stockhawk.data.QuoteColumns;
 import com.sam_chordas.android.stockhawk.data.QuoteProvider;

@@ -10,7 +10,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.InvalidObjectException;
 import java.util.ArrayList;
 
 /**
